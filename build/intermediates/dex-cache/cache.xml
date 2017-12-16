@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kelvin Oguno\.android\build-cache\1201271a05401b7cab048f32062b842afc648a8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Development\workspace\Proverbial3\app\build\intermediates\pre-dexed\debug\classes_df927c003f1b4154c953acccdfe07fad74cd1d82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Development\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Development\workspace\Proverbial3\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_01c3a10a5c3579a9cb478037427ca406814a243c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kelvin Oguno\.android\build-cache\455416dadf859dd6c22bf53648ff93ba25dc89f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Development\workspace\Proverbial3\app\build\intermediates\pre-dexed\debug\classes_123d038fa6897c0f50a444cc8c12cfc7e52f1c09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kelvin Oguno\.android\build-cache\451a4e49a1fc9e53322fbdb4b5e1cdd0536038bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Development\workspace\Proverbial3\app\build\intermediates\pre-dexed\debug\classes_90e48aa3c9aa74f801d601a89c75bd735aa92e1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kelvin Oguno\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Development\workspace\Proverbial3\app\build\intermediates\pre-dexed\debug\common-1.0.0_361754440e51e7dda7660feab9ba7f95a566dfe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kelvin Oguno\.android\build-cache\4cebcf13b1827d2fe73d07307bd8713f1730e838\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Development\workspace\Proverbial3\app\build\intermediates\pre-dexed\debug\classes_3ebac5f8b2b77169d5678e9b03bb4c594fc69181.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kelvin Oguno\.android\build-cache\9a425d06421928544c0a37cdbd1bc7299562eaa8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Development\workspace\Proverbial3\app\build\intermediates\pre-dexed\debug\classes_02fcab7d3b89b7b5f141d184533f9942808fd21c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kelvin Oguno\.android\build-cache\eb751301a4ea081939233bff0091a92ca64aef67\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Development\workspace\Proverbial3\app\build\intermediates\pre-dexed\debug\classes_fa5e2fcab84db714863fe3fdb7dbd2fed30ba12d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kelvin Oguno\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Development\workspace\Proverbial3\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_961130a5fff1b2e03ee87b12d9104e38366633a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kelvin Oguno\.android\build-cache\6fc0e103f654a2520b2fa4b40eb2a9a2e73071f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Development\workspace\Proverbial3\app\build\intermediates\pre-dexed\debug\classes_1d971582bb278d78ebbbd6a405b7cd79bb5aeca6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kelvin Oguno\.android\build-cache\78f0196ffae6e41ec5cd7367c284431bd47dcb0b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Development\workspace\Proverbial3\app\build\intermediates\pre-dexed\debug\classes_c77890db46ad1a43f980acdda4f064909e0aaa25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kelvin Oguno\.android\build-cache\96cd9d0762379136bbc515bc89241d46d5235cb9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Development\workspace\Proverbial3\app\build\intermediates\pre-dexed\debug\classes_fd0be69bedadf9715d6467da5afcb75503ee7be5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kelvin Oguno\.android\build-cache\5bd34af12a8a1ed6ce7e4714d5711c8ad6e9f68a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Development\workspace\Proverbial3\app\build\intermediates\pre-dexed\debug\classes_7e739f507c4991f9f45b71440fc2a9329dc72dfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kelvin Oguno\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Development\workspace\Proverbial3\app\build\intermediates\pre-dexed\debug\common-1.0.0_e39689e67b822cbc41daa23550f248b4b3b0c969.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kelvin Oguno\.android\build-cache\76d51e670a94646a5610c752e123cc06ef84c728\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Development\workspace\Proverbial3\app\build\intermediates\pre-dexed\debug\classes_8d57fac6fe15b2c1fee2e720fef32ba9e5688434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kelvin Oguno\.android\build-cache\f19c548e5d215af287cad91d238f9665b6a6ed48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Development\workspace\Proverbial3\app\build\intermediates\pre-dexed\debug\classes_8ccb25a2498401305da2b72bd8fe791ba835e52c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kelvin Oguno\.android\build-cache\8fb6fcd1db512b648a5e9c723d38df0e9a3a9a27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Development\workspace\Proverbial3\app\build\intermediates\pre-dexed\debug\classes_10dde55b00f206f913aa9d957e612996f24d73e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kelvin Oguno\.android\build-cache\4ca7649f6d6fdde8567938a0045205dc446606cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Development\workspace\Proverbial3\app\build\intermediates\pre-dexed\debug\classes_c641cae56bc2bd554454003e39e24b7eb9a13fd3.jar" />
+    </item>
+
+</items>
